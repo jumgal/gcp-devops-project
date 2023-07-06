@@ -1,1 +1,2 @@
-#### This is a repo to my new GCP DEVOPS Project
+#### This is FLASK app
+#### Deployed on GKE
